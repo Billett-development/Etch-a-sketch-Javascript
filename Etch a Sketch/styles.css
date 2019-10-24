@@ -1,0 +1,61 @@
+
+
+.head-content {
+    
+    width: 80%;
+    height: 10vh;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid #555;
+    padding: 20px;
+
+}
+
+.head-title {
+    
+    text-decoration: underline;
+    font-size: 180%;
+    text-align: center;
+    
+}
+
+.head_text {
+    
+    font-size: 80%;
+    text-align: center;
+    
+    
+}
+
+.container {
+    
+    width: 50vh;
+    height: 50%;
+    margin-left: 40%;
+    margin-top: 10%;
+    
+}
+
+
+.span-1-of-4 {
+    
+	width: 4.7vh;
+    border: 1px solid #555;
+    float: left;
+    height: 4.7vh;
+    color: aliceblue;
+    background-color: aliceblue;
+    background-color: #151515;
+   
+}
+
+.div-color {
+    
+     background-color: #151515;
+    
+}
+.buttons_contain{
+    
+    margin-left: 20%;
+
+}
